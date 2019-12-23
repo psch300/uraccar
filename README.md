@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is graduation project.
 
-**Uraccar** means 'Using Traccar'.
+**Uraccar** means 'Using Traccar'.<br>
 [Traccar](https://www.traccar.org/) is an open source project which is Modern GPS Tracking Platform.
 
 All you need to prepare is synchronizing Traccar server with Uraccar.
