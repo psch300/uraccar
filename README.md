@@ -24,3 +24,8 @@ Uraccar 웹 어플리케이션을 이용해 Traccar 서버와 동기화를 진�
 ### 상세 기술
 
 [Mining User Similarity Based on Location History](https://dl.acm.org/doi/pdf/10.1145/1463434.1463477)를 참고하여 STAY POINT 추출 알고리즘을 제작하였습니다. 몇 번의 실험을 통해 200m 이내에 30분 이상 위치해있는 경우, 기록된 이동 경로의 각 좌표의 평균점으로 STAY POINT로 추출되도록 설정했습니다.
+
+![결과 화면](https://github.com/psch300/uraccar/blob/master/public/result1.png)
+
+### 프로젝트 시연 영상
+
