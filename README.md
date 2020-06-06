@@ -29,4 +29,4 @@ Uraccar 웹 어플리케이션을 이용해 Traccar 서버와 동기화를 진�
 
 ### 프로젝트 시연 영상
 
-[![프로젝트 시연 영상](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/OzcTzka0dPQ)
+[![프로젝트 시연 영상](https://img.youtube.com/vi/OzcTzka0dPQ/0.jpg)](https://youtu.be/OzcTzka0dPQ)
