@@ -1,19 +1,20 @@
 import React, { Component } from 'react';
+import './App.css';
+import { fire } from './services/Firebase'
 import { Header } from './components';
-import { Containers } from './containers';
-import { fire } from './services/Firebase';
+import { Container } from './containers';
 
 class App extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     fire();
   }
 
   render () {
     return (
       <div>
-        <Header></Header>
-        <Containers></Containers>
+        <Header />
+        <Container />
       </div>
     );
   }

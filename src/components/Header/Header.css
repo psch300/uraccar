@@ -1,9 +1,10 @@
 .Header {
-    background-color: #011627;
-    color: white;
-    font-size: 2rem;
-    padding: 1.2rem;
-    text-align: center;
-    font-weight: 600;
-    margin-bottom: 2rem;
+  background-color: #00005E;
+  color: white;
+  font-size: 2rem;
+  padding: 1.2rem;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  height: 50%;
 }

@@ -1,5 +1,5 @@
-import Containers from './Containers/Containers'
+import Container from './Container';
 
 export {
-	Containers
-};
+  Container
+}

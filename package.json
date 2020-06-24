@@ -1,14 +1,17 @@
 {
-  "name": "uraccar",
+  "name": "jolp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
     "firebase": "^7.5.0",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
+    "geolib": "^3.1.0",
+    "google-maps-react": "^2.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
     "react-naver-maps": "^0.0.13",
     "react-scripts": "3.2.0",
+    "react-toastify": "^5.4.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.1"
   },
@@ -16,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "react-scripts build && firebase deploy"
   },
   "eslintConfig": {
     "extends": "react-app"
