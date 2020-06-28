@@ -40,7 +40,7 @@ const Mapview = ({zoom, center, points, staypoints}) => {
 
 
   return (
-    <RenderAfterNavermapsLoaded ncpClientId="ig5nrhgk09">
+    <RenderAfterNavermapsLoaded ncpClientId={NCP_API_KEY}>
       <NaverMap 
         mapDivId={'maps-getting-started-uncontrolled'} // default: react-naver-map
         style={{

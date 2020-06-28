@@ -15,7 +15,7 @@ export const getPointsFromTraccar = (deviceId) => {
     params: {
       deviceId: deviceId,
       from: '2019-01-01T00:00:00Z',
-      to: '2020-01-01T00:00:00Z'
+      to: '2100-01-01T00:00:00Z'
     }
   })
 }
